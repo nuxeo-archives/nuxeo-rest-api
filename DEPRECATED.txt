@@ -1,0 +1,1 @@
+DEPRECATED: merged into https://github.com/nuxeo/nuxeo-features
